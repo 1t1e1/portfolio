@@ -2,15 +2,15 @@ yapilacaklar;
 
 -   [ ] Headerdaki yazilari ortaya al.
 -   [ ] Reactstrap a kaba, islevsel bir tasarim yap
--   [ ] Giris sayfasini yap
--   [ ] Notlar sayfasini yap
+-   [ ] Giris sayfasini hazirla
+-   [ ] Notlar sayfasini hazirla
 
     -   [ ] Notlari .md den oku
     -   [ ] Style
     -   [ ] Searchable
     -   [ ] ? Yeni not ekle.
 
-*   [ ] github page de yayinla
+*   [ ] github page de yerine contact sayfasi olsun.
 *   [ ] projeler sayfasini yap
 
     -   [ ] Formik ile bir kucuk form projesini (yasam-)
@@ -20,4 +20,7 @@ yapilacaklar;
 
 *   [x] Router ekle,
 
-    -   [ ] Sayfayi yenileyerek mi gidiyor.
+    -   [x] Sayfayi yenileyerek acma sorunu cozuldu.
+    -   [ ] Diger projelerin linklerin ayarlanmasi
+
+*   [ ]
