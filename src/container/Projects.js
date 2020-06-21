@@ -10,6 +10,7 @@ export default class Projects extends Component {
 					<li> Link </li>
 					<li> kullanilan Teknolojiler </li>
 					<li> eksilik, yapilacaklar</li>
+					<li> eksilik, yapilacaklar</li>
 				</ul>
 			</div>
 		);
